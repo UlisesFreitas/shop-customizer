@@ -1,0 +1,12 @@
+/**
+ * Shop Customizer
+ * Add any custom CSS here.
+ *
+ * This file will be loaded after all other theme stylesheets.
+ */
+.site-search{display:none;}
+.page-title{display:none;}
+.storefront-sorting{display:none;}
+.woocommerce-active .site-header .secondary-navigation {float: right;margin-right: 4.34783%;width: 56%;}
+.site-footer {padding: 1.5em 0px !important;}
+.site-info {padding: 1em 0px !important;margin: 0 auto;text-align: center;}

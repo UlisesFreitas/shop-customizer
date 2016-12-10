@@ -1,5 +1,3 @@
-# shop-customizer
-A simple plugin to customize woocommerce
 === Shop Customizer ===
 Contributors: ulisesfreitas
 Tags: theme, edit, edits, customise, customisation, customize, customization, css, php, jquery
